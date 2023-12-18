@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kash-tech/static/css/main.61fc42dd.css",
+    "main.js": "/kash-tech/static/js/main.b7aa0274.js",
+    "static/js/787.7ddc5624.chunk.js": "/kash-tech/static/js/787.7ddc5624.chunk.js",
+    "index.html": "/kash-tech/index.html",
+    "main.61fc42dd.css.map": "/kash-tech/static/css/main.61fc42dd.css.map",
+    "main.b7aa0274.js.map": "/kash-tech/static/js/main.b7aa0274.js.map",
+    "787.7ddc5624.chunk.js.map": "/kash-tech/static/js/787.7ddc5624.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61fc42dd.css",
+    "static/js/main.b7aa0274.js"
+  ]
+}
