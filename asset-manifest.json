@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kash-tech/static/css/main.487eef58.css",
-    "main.js": "/kash-tech/static/js/main.4f1f8305.js",
+    "main.css": "/kash-tech/static/css/main.3f7d747e.css",
+    "main.js": "/kash-tech/static/js/main.58326805.js",
     "static/js/787.7ddc5624.chunk.js": "/kash-tech/static/js/787.7ddc5624.chunk.js",
     "index.html": "/kash-tech/index.html",
-    "main.487eef58.css.map": "/kash-tech/static/css/main.487eef58.css.map",
-    "main.4f1f8305.js.map": "/kash-tech/static/js/main.4f1f8305.js.map",
+    "main.3f7d747e.css.map": "/kash-tech/static/css/main.3f7d747e.css.map",
+    "main.58326805.js.map": "/kash-tech/static/js/main.58326805.js.map",
     "787.7ddc5624.chunk.js.map": "/kash-tech/static/js/787.7ddc5624.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.487eef58.css",
-    "static/js/main.4f1f8305.js"
+    "static/css/main.3f7d747e.css",
+    "static/js/main.58326805.js"
   ]
 }
